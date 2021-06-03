@@ -7,7 +7,7 @@ except Exception:
     exit(1)
 
 #####  EDIT ME  #####
-Delay = 5       #  Will change the delay between requests if the var type is int
+Delay = False       #  Will change the delay between requests if the var type is int
 MakeLog = True      #  Will make a proxyTester.log file if the var is set to True
 #####################
 
